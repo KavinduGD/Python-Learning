@@ -1,1 +1,0 @@
-print("my name is "+input("Enter your name: "))
